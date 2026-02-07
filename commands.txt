@@ -1,0 +1,1 @@
+python main.py stream --fps 60 --max-size 1600 --pipeline "cartoon|vibe" --preview --window "Firefox" --window-native --extra cartoon.edges=120 --extra cartoon.levels=30 --extra vibe.pulse=2 --extra vibe.split=2
