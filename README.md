@@ -1,6 +1,3 @@
-Here is a comprehensive README.md file designed for your project. It covers the architecture, the specific effects you've built, and how to use both the GUI and the CLI.
-Gemini Stream Processor
-
 Gemini Stream Processor is a high-performance, real-time computer vision pipeline designed for Windows. It allows you to capture any active window, apply a series of complex image processing "blocks," and interact with the target window directly through a processed preview.
 
 The project is built for speed, utilizing pre-allocated memory buffers and OpenCV LUTs (Look-Up Tables) to minimize latency and CPU overhead.
