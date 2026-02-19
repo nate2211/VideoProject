@@ -28,3 +28,4 @@ class Registry:
 
 
 BLOCKS = Registry()
+AUDIO_BLOCKS = Registry()
